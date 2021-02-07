@@ -5,7 +5,7 @@
 
 pkg install git
 
-git clone 
+git clone https://github.com/SistemaInvasor/termux_01
 
 ls
 
